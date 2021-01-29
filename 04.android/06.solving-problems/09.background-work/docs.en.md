@@ -59,6 +59,18 @@ To let your app run successfully in the background, configure settings as follow
 
 <img src="https://cdn.adguard.com/public/Adguard/screenshots/android/xiaomi3en.png" width="400" />
 
+#### MIUI 12
+
+Make sure settings for AdGuard look like as follows:
+
+<img src="https://cdn.adguard.com/public/Adguard/screenshots/android/xiaomi4en.jpg" width="400" />
+
+- *Settings* > *Apps* > *Manage Apps* > *AdGuard* > *Autostart* ON
+- *Settings* > *Apps* > *Manage Apps* > *AdGuard* > *Permissions* – All
+
+<img src="https://cdn.adguard.com/public/Adguard/screenshots/android/xiaomi5en.jpg" width="400" />
+
+- *Settings* > *Apps* > *Manage Apps* > *AdGuard* > *Battery saver* > *No restrictions*
 
 #### Power management
 

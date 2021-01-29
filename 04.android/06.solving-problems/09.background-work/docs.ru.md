@@ -59,6 +59,18 @@ taxonomy:
 
 <img src="https://cdn.adguard.com/public/Adguard/screenshots/android/xiaomi3ru.png" width="300">
 
+#### MIUI 12
+
+Убедитесь, что у вас выбраны такие настройки:
+
+<img src="https://cdn.adguard.com/public/Adguard/screenshots/android/xiaomi4ru.jpg" width="400" />
+
+- *Настройки* > *Приложения* > *Управление приложениями* > *AdGuard* > *Автостарт* – нужно включить
+- *Настройки* > *Приложения* > *Управление приложениями* > *AdGuard* > *Разрешения приложений* – Все
+
+<img src="https://cdn.adguard.com/public/Adguard/screenshots/android/xiaomi5ru.jpg" width="400" />
+
+- *Настройки* > *Приложения* > *Управление приложениями* > *AdGuard* > *Контроль фоновой активности* > *Нет ограничений*
 
 #### Управление питанием
 
